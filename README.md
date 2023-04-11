@@ -5,6 +5,10 @@
 
 [![Anurag's GitHub stats](https://my-repo-6hpp-3man1992.vercel.app/)](https://github.com/3man1992/github-readme-stats)
 
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://my-repo-ow4g.vercel.app/))](https://github.com/anuraghazra/github-readme-stats)
+
+https://my-repo-ow4g.vercel.app/
+
 <!--
 **3man1992/3man1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
