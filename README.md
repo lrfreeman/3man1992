@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on software to analyze goal encodings within the brain for my PhD at the Sainsbury Wellcome Centre in London
 - 🌱 I’m currently learning dynamical systems theory and machine learning to analyze invasive brain computer interface data
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3man1992)](https://github.com/3man1992/github-readme-stats)
+[![Anurag's GitHub stats](https://my-repo-6hpp-3man1992.vercel.app/)](https://github.com/3man1992/github-readme-stats)
 
 <!--
 **3man1992/3man1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
